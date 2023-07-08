@@ -1,2 +1,2 @@
 # .github
-Informações
+Instruction of this Repository!
